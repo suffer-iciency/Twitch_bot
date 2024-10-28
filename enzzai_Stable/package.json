@@ -1,0 +1,20 @@
+{
+  "name": "r_chatbot",
+  "version": "0.1.0 pre-release",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Rainbyyy",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "tmi.js": "^1.8.5"
+  }
+}
